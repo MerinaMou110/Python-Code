@@ -1,0 +1,6 @@
+# highest= max(45,98,77)
+highest= max([45,98,77,96])
+smallest= min([45,98,77,96])
+summation= sum([45,98,77,96])
+count=len([45,98])
+print(highest,smallest,count,summation)
